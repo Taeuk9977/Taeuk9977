@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Git Badge](https://img.shields.io/badge/Git-VersionControl-orange)
 
 <!--
 **Taeuk9977/Taeuk9977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
